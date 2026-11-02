@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/eliben/pycparser/commit/3ec766b7cd94724cba714296509604597ea4ce4e",
       "git:hexsha": "3ec766b7cd94724cba714296509604597ea4ce4e",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "release_v3.12"
     },
     {
