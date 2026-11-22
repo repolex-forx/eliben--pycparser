@@ -3,6 +3,11 @@
   "repo": "pycparser",
   "versions": [
     {
+      "commit": "168af9695d179eee29f6e6ab9db676c248157950",
+      "tag": "release_2.01",
+      "parsed_at": "2026-11-22T00:59:06.792005+00:00"
+    },
+    {
       "commit": "3ec766b7cd94724cba714296509604597ea4ce4e",
       "tag": "release_v3.12",
       "parsed_at": "2026-11-02T18:55:40.584347+00:00"
